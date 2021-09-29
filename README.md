@@ -1,4 +1,4 @@
 # Molecular Dynamics Analysis in Python
 
-Simple python scripts for fast analysis of MD trajectories in python. 
+Simple python scripts for fast analysis of crystalline MD simulations in python
 

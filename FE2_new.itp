@@ -1,0 +1,8 @@
+[ moleculetype ]
+; Name            nrexcl
+FE2          3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr    charge       mass  typeB    chargeB      massB
+; residue    1 FE2 rtp FE2 q 2.0
+    1         FE      1    FE2     FE      1 2.00000000  55.850000   ; qtot 2.000000

@@ -1,0 +1,17 @@
+19,  OD1 ASP A  61    , NH2 ARG C 357   
+20,  OE2 GLU C 354    ,  CB ASP A  61 
+48,  O   ASP A  61    , ND2 ASN A  87   
+49,  CG2 ILE A  63    ,  C   GLY C 353  
+50,  OG1 THR C 335    , CA   GLY C 353 
+51,  OG1 THR C 335    , O   LEU C 337   
+52,  O   ASN A 335    , ND2 ASN A 338   
+53,  O   GLY C 338    , SD  MET C 342    
+71,  O   ASN A 338    , OD1 ASN U  99 
+72,  CD  PRO C 334    , ND2 ASN D 350   
+73,  ND2 ASN O 155    , OD1 ASP U  96   
+74,  O   GLN C 332    , OG1 THR O 153   
+75,  N   ASN O 155    , OD2 ASP U  96   
+113,  O   ALA U  90    , OD2 ASP U  96   
+114,  OD1 ASN O 155    , O   ASN U 100  
+112,  CB  ASN U  31    , ND2 ASN U 100   
+115,  OH  TYR U  21    , N   ASN U  31   

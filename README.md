@@ -1,9 +1,9 @@
-## Molecular Dynamics Analysis in Python
+##Molecular Dynamics Analysis in Python
 
 Enclosed are scripts used for analyzing MD simulations of PS II in python.
 Below is a brief description:
 
-## filesfor_plots 
+## files_for_plots 
 Contains relevant .pdb, .dat, .pkl etc. files used in this work. These are all necesary for the .ipynb files under the scripts directory
 
 ##scripts

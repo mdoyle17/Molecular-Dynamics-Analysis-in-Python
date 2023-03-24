@@ -1,4 +1,4 @@
-##Molecular Dynamics Analysis in Python
+## Molecular Dynamics Analysis in Python
 
 Enclosed are scripts used for analyzing MD simulations of PS II in python.
 Below is a brief description:
@@ -6,7 +6,7 @@ Below is a brief description:
 ## files_for_plots 
 Contains relevant .pdb, .dat, .pkl etc. files used in this work. These are all necesary for the .ipynb files under the scripts directory
 
-##scripts
+## scripts
 Several .ipynb files are enclosed which exhibit a range of functionalities, currently including the following:  
 - Script for checking temperature and pressure of a simulation 
 - Script for comparing geometry of active site in simulation to reference structure
@@ -16,7 +16,7 @@ Several .ipynb files are enclosed which exhibit a range of functionalities, curr
 - Script for computing distance of randomly selected bulk waters to active site 
 
 
-##itp
+## itp
 Contains the relevant .itp files used for this work
 
 ## strong_solvent_peaks_in_20_ansgtrom_of_OEC.pdb

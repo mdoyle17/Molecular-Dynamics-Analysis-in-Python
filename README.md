@@ -1,4 +1,4 @@
-# Molecular Dynamics Analysis in Python
+## Molecular Dynamics Analysis in Python
 
 Enclosed are scripts used for analyzing MD simulations of PS II in python.
 Below is a brief description:

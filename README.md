@@ -17,7 +17,7 @@ Several .ipynb files are enclosed which exhibit a range of functionalities, curr
 
 
 ## itp
-Contains the relevant .itp files used for this work
+Topology folder for this work
 
 ## strong_solvent_peaks_in_20_ansgtrom_of_OEC.pdb
 .pdb file contaning coordinates of additional waters from the simulation which are likely to be in the PS II S1 structure 

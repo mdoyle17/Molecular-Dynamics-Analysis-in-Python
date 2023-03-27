@@ -23,4 +23,4 @@ Topology folder for this work
 .pdb file contaning coordinates of additional waters from the simulation which are likely to be in the PS II S1 structure (within 20 Angstrom of OEC)
 
 ## 0F.pdb_fittedto55all.pdb
-reference PS II structure used for this work - can be loaded up in Coot and overlaid with strong_solvent_peaks_in_20_ansttrom_of_OEC.pdb for comparison
+reference PS II structure used for this work - can be loaded up in Coot and overlaid with strong_solvent_peaks_in_20_angstrom_of_OEC.pdb for comparison

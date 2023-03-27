@@ -19,5 +19,8 @@ Several .ipynb files are enclosed which exhibit a range of functionalities, curr
 ## itp
 Topology folder for this work
 
-## strong_solvent_peaks_in_20_ansgtrom_of_OEC.pdb
-.pdb file contaning coordinates of additional waters from the simulation which are likely to be in the PS II S1 structure 
+## strong_solvent_peaks_in_20_angstrom_of_OEC.pdb
+.pdb file contaning coordinates of additional waters from the simulation which are likely to be in the PS II S1 structure (within 20 Angstrom of OEC)
+
+## 0F.pdb_fittedto55all.pdb
+reference PS II structure - can be loaded up in Coot and overlaid with strong_solvent_peaks_in_20_ansttrom_of_OEC.pdb for comparison
